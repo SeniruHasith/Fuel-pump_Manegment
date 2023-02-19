@@ -1,0 +1,13 @@
+
+­
+java:S1192"–Define a constant instead of duplicating this literal "=====================================================================================" 3 times.(¥€Œı
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ
+B
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥€Œı
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ò‘Êÿÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¥€Œı
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥€Œı

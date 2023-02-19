@@ -1,0 +1,83 @@
+=====================================================
+data about the fuel center
+=====================================================
+Maximum stock in the fuel center: 6600 litres
+remaining stock: 6328
+
+=====================================================
+current ques: 
+=====================================================
+PUMP-1: 
+customer1
+First name VINUJA
+Second name PIUMJITH
+Num of litres 15
+Vehicle number CAK-1783
+customer2
+First name SAM
+Second name DAN
+Num of litres 10
+Vehicle number SDA66
+customer3
+First name KASUN
+Second name PRABASH
+Num of litres 10
+Vehicle number KJHSD65
+
+PUMP-2: 
+customer1
+First name ISURU
+Second name UDARA
+Num of litres 10
+Vehicle number BC-9751
+customer2
+First name SATHMIKA
+Second name KULUNU
+Num of litres 100
+Vehicle number AS52
+customer3
+First name DESHAN
+Second name SUMANATHILAKA
+Num of litres 10
+Vehicle number ADS55
+
+PUMP-3: 
+customer1
+First name SAHAN
+Second name PRABATH
+Num of litres 10
+Vehicle number SDGH-5456
+customer2
+First name SITHUM
+Second name AKASH
+Num of litres 10
+Vehicle number AS55
+customer3
+First name SANJAYA
+Second name DATH
+Num of litres 2
+Vehicle number DSF55
+
+PUMP-4: 
+customer1
+First name KALUM
+Second name PERERA
+Num of litres 15
+Vehicle number SAD5521
+customer2
+First name RAVINDU
+Second name DANANJAYA
+Num of litres 10
+Vehicle number SE-7453
+
+PUMP-5: 
+customer1First name HASITH
+Second name DANANJAYA
+Num of litres 55
+Vehicle number AD5
+customer2First name PURANA
+Second name THILANKA
+Num of litres 15
+Vehicle number ASD65
+
+

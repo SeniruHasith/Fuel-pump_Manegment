@@ -1,0 +1,44 @@
+=====================================================
+data about the fuel center
+=====================================================
+Maximum stock in the fuel center: 6600 litres
+remaining stock: 6540
+
+=====================================================
+current ques: 
+=====================================================
+pump1: 
+customer1
+first name SDFDSA
+second name FSDF
+num of litres 15
+vehicle number DSFA
+
+pump2: 
+customer1
+first name ERTGA
+second name WEQR
+num of litres 10
+vehicle number GTHSDGF
+
+pump3: 
+customer1
+first name SDFGAD
+second name FGHJDF
+num of litres 10
+vehicle number WEAR
+
+pump4: 
+customer1
+first name FDSA
+second name AWERF
+num of litres 10
+vehicle number YTJD
+
+pump5: 
+customer1first name TYHJDF
+second name WEDASF
+num of litres 10
+vehicle number EWRQ
+
+
